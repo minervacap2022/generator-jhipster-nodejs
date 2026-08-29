@@ -249,3 +249,8 @@ Apache-2.0 © [Angelo Manganiello](https://github.com/amanganiello90)
 [npmcharts-url]: https://npmcharts.com/compare/generator-jhipster-nodejs
 [gitter-image]: https://badges.gitter.im/generator-jhipster-nodejs/community.svg
 [gitter-url]: https://gitter.im/generator-jhipster-nodejs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
